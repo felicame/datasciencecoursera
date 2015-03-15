@@ -1,3 +1,3 @@
 ## This is a markdown file
-*first item
-*second item
+* first item
+* second item
